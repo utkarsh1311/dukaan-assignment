@@ -1,7 +1,7 @@
-import Header from "./Header";
-import Navbar from "./Navbar";
-import Overview from "./Overview";
-import Transactions from "./Transactions";
+import Header from "./header/Header";
+import Navbar from "./navbar/Navbar";
+import Overview from "./overview/Overview";
+import Transactions from "./transaction/Transactions";
 
 const Dashboard = () => {
 	return (
