@@ -2,10 +2,8 @@ import download from "../../assets/download.svg";
 import search from "../../assets/search.svg";
 import sort from "../../assets/sort.svg";
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const FilterData = ({ data }) => {
-  
-
+	console.log("data", data);
 
 	return (
 		<div className="flex justify-between">
