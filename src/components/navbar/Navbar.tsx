@@ -17,7 +17,7 @@ const Navbar = () => {
 						</div>
 						<div className="flex flex-col justify-center items-start gap-1 flex-grow  text-white">
 							<p className=" text-sm font-medium">Nishyan</p>
-							<p className=" text-xs opacity-80">Visit Store</p>
+							<p className=" text-xs opacity-80 underline cursor-pointer">Visit Store</p>
 						</div>
 						<div className="">
 							<img src={chevronDown} alt="chevron down icon" />
