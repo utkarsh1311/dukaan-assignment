@@ -1,4 +1,4 @@
-import info from "../../assets/info.svg";
+import info from "../../assets/Info.svg"
 
 const DataTable = ({ data }) => {
 	return (
